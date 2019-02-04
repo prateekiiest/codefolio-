@@ -1,0 +1,22 @@
+# Site settings
+title: HOME
+
+url: "http://prateekiiest.github.io"
+
+# Server
+destination:      	 ./_site
+port:             	 4000
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+
+
+
+# PAGINATION
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
