@@ -14,6 +14,8 @@ highlighter: rouge
 permalink: pretty
 
 
+<link rel="stylesheet" href="{{ site.url }}/css/main.less">
+<script src="{{ site.url }}/js/content.js"></script>
 
 
 # PAGINATION
